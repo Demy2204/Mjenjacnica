@@ -4,6 +4,6 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello World!" << endl;
+    //pocetak zadatka
     return 0;
 }
