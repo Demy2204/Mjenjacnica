@@ -4,6 +4,6 @@ using namespace std;
 
 int main()
 {
-    //pocetak zadatka
+    //osnovni kod
     return 0;
 }
